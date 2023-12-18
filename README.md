@@ -2,6 +2,9 @@
 <div align="center">
   <a href="https://swastik-bose.web.app/">
     MY PORTFOLIO
+  </a> 🔸
+  <a href="mailto: swastikbose98@gmail.com">
+    swastikbose98@gmail.com
   </a>
 </div>
 <h4 align="center">UI/UX Designer ✏️ | Frontend Web developer 🧑🏻‍💻 | React Native developer 📱 | Product developer </h4>
