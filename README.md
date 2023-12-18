@@ -6,9 +6,26 @@
 </div>
 <h4 align="center">UI/UX Designer ✏️ | Frontend Web developer 🧑🏻‍💻 | React Native developer 📱 | Product developer </h4>
 
-![cover](https://github.com/kolkatadev/swastik/assets/98341839/84da81aa-6a04-441b-99a2-fca7a3a03a49)
+![LinkedIn cover - 2](https://github.com/kolkatadev/swastik/assets/98341839/cd2de6dd-6e61-4c59-98e1-129f5d10f917)
 
-<h1>Communities</h1>
+<h1>About me ℹ️</h1>
+
+Hi! My name is Swastik Bose, currently pursuing B. Tech in Electronics and Communication Engineering(ECE) from Academy of Technology(AOT) under MAKAUT. 
+
+I am a versatile Product Developer and Frontend Engineer with a unique blend of creative UI/UX skills, specializing in Figma design, React.js, React Native, TailwindCSS, JavaScript, HTML, and CSS. My passion lies in crafting user-friendly and visually appealing products that seamlessly merge design and development principles. 
+
+<h1>Tech stacks</h1>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)
+
+<h1>Communities 👥</h1>
+
+![IEI Students' Chapter](https://github.com/kolkatadev/swastik/assets/98341839/bd1f2eb2-04fe-47f0-bf14-f603245eaca4) 
+![GDG Cloud Kolkata](https://github.com/kolkatadev/swastik/assets/98341839/cb8c21b2-8ab6-4ca8-b670-fa90e9f1f996) 
+![skillvalley](https://github.com/kolkatadev/swastik/assets/98341839/9d949128-4aad-4ffd-baea-f8824c46d3b1)
+
+  
+
 
 
 
